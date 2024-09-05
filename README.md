@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hola, soy Nicolás!
 
-<!--
-**NicoG2023/NicoG2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado programador que disfruta de explorar nuevas tecnologías y resolver problemas a través del código. Cuando no estoy programando, me gusta sumergirme en el mundo de los juegos, dedicar tiempo a la jardinería, y experimentar con nuevas recetas en la cocina.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Me encanta programar y trabajar en proyectos interesantes, y de diversos temas, como puede ser desarrollo web, ciencia de datos, etc.
+- 🎮 Soy un ávido jugador y disfruto de los videojuegos en mi tiempo libre.
+- 🌿 Tengo un gran interés por la jardinería y me gusta cultivar mis propias plantas.
+- 🍳 Me apasiona la cocina y siempre estoy probando nuevas recetas.
+
+## 📫 ¡Conéctate conmigo!
+
+Puedes encontrarme en [LinkedIn](www.linkedin.com/in/nicolás-guevara-herrán-a959a82ab).
+
+¡Gracias por visitar mi perfil!
