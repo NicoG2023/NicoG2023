@@ -1,16 +1,56 @@
-# 👋 Hola, soy Nicolás!
+## Hola, soy Nicolás Guevara
 
-Soy un apasionado programador que disfruta de explorar nuevas tecnologías y resolver problemas a través del código. Cuando no estoy programando, me gusta sumergirme en el mundo de los juegos, dedicar tiempo a la jardinería, y experimentar con nuevas recetas en la cocina.
+💻 Backend Engineer (Java) | Full-Stack when needed  
+🚀 Construyo sistemas escalables, orientados a dominio y datos
 
-## 🚀 Sobre mí
+Soy backend engineer con experiencia en el diseño y construcción de sistemas distribuidos, aplicando principios de arquitectura limpia, dominio bien modelado y prácticas orientadas a producción. He trabajado en proyectos de **sistemas de acceso, e-commerce y plataformas educativas**, integrando backend, frontend y bases de datos.
 
-- 👨‍💻 Me encanta programar y trabajar en proyectos interesantes, y de diversos temas, como puede ser desarrollo web, ciencia de datos, etc.
-- 🎮 Soy un ávido jugador y disfruto de los videojuegos en mi tiempo libre.
-- 🌿 Tengo un gran interés por la jardinería y me gusta cultivar mis propias plantas.
-- 🍳 Me apasiona la cocina y siempre estoy probando nuevas recetas.
+Core expertise:
+- Backend con **Java (Quarkus / Spring Boot)**
+- Arquitecturas **monolito modular, microservicios y event-driven**
+- Bases de datos **PostgreSQL / MySQL**
+- Frontend con **React + TypeScript**
 
-## 📫 ¡Conéctate conmigo!
+## 🛠️ Tech Stack
 
-Puedes encontrarme en [LinkedIn](www.linkedin.com/in/nicolás-guevara-herrán-a959a82ab).
+**Backend**
+- Java (Quarkus, Spring Boot)
+- Python (Django, FastAPI) - experiencia previa
 
-¡Gracias por visitar mi perfil!
+**Frontend**
+- React, TypeScript, Vite
+- Tailwind CSS
+
+**Bases de datos**
+- PostgreSQL, MySQL
+
+**Arquitectura**
+- Monolito modular
+- Microservicios
+- Event-driven (Outbox, Kafka)
+
+**DevOps / Infra**
+- Docker
+- AWS (S3, CloudFront)
+- GCP
+- GitHub Actions (básico)
+
+**Security & Auth**
+- Keycloak (OIDC, OAuth2)
+
+**Observability**
+- Prometheus
+- Grafana
+- Alertmanager
+
+## 📌 Proyectos destacados
+
+- 🔐 **Access Control Platform** – Sistema de control de acceso con arquitectura modular y event-driven  
+- 🛒 **E-commerce Artesanías Bogotá** – Plataforma de comercio electrónico con backend en Express y frontend en React
+- 📊 **App Quices Probabilidad** – Herramienta educativa para estudiantes universitarios
+
+## 📬 Contacto
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/nicol%C3%A1s-guevara-herr%C3%A1n-a959a82ab/]
+- 🌐 Portfolio: [nicog-portfolio.vercel.app]
+- 📧 Email: nicoguehe@gmail.com
